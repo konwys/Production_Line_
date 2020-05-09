@@ -1,0 +1,10 @@
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\bin\Debug\linia_produkcyjna.exe.config
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\bin\Debug\linia_produkcyjna.exe
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\bin\Debug\linia_produkcyjna.pdb
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\obj\Debug\linia_produkcyjna.csprojAssemblyReference.cache
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\obj\Debug\linia_produkcyjna.Form1.resources
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\obj\Debug\linia_produkcyjna.Properties.Resources.resources
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\obj\Debug\linia_produkcyjna.csproj.GenerateResource.cache
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\obj\Debug\linia_produkcyjna.exe
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\obj\Debug\linia_produkcyjna.pdb
+C:\Users\Konrad\source\repos\linia_produkcyjna\linia_produkcyjna\obj\Debug\linia_produkcyjna.Form2.resources
